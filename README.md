@@ -51,7 +51,7 @@ Consegue sim! Só precisa saber (ou aprender agora) um pouco sobre as seguintes 
 
 - Consumo de APIs Rest 
 
-Você esta livre para usar bibliotecas css como Ant Design <3, Boostrap, Material e etc..
+Você está livre para usar bibliotecas css como Ant Design <3, Boostrap, Material e etc..
 
 ## Regras 
 
