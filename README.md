@@ -18,7 +18,7 @@ Este teste tem como objetivo avaliar e desafiar você. Não é obrigatório real
 
   
 
-Sua missão é criar uma landing page (página estática) para buscar, listar e detalhar pokémons, usando a API Pokeapi.co 
+Sua missão é criar uma landing page (página estática) para buscar, listar e detalhar pokémons, usando a API [Pokeapi.co](https://pokeapi.co/docs/v2)
 
   
 
